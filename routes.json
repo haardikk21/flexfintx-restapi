@@ -1,0 +1,14 @@
+{
+  "/v1/*": "/$1",
+  "/client/pending": "/client-pending",
+  "/client/123456789-abcdefg-13432": "/client-123456789-abcdefg-13432",
+  "/client/324523454-sdfsdfsdf-1241452": "/client-324523454-sdfsdfsdf-1241452",
+  "/loan/request/pending": "/loan-request-pending",
+  "/loan/approve": "/loan-approve",
+  "/loan/decline": "/loan-decline",
+  "credit/transfer/request/pending": "/credit-transfer-request-pending",
+  "/credit/transfer/approve": "/credit-transfer-approve",
+  "/credit/transfer/decline": "/credit-transfer-decline",
+  "/agent/43534534-sadasdf-12344": "/agent-43534534-sadasdf-12344",
+  "/branch/3242345-dsgsd-2131": "/branch-3242345-dsgsd-2131"
+}

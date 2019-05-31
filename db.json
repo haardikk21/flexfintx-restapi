@@ -1,0 +1,166 @@
+{
+  "client": {
+    "response": "Success!"
+  },
+  "client-pending": [
+    {
+      "id": "123456789-abcdefg-13432",
+      "authorizedOrgs": [
+        "Flex",
+        "BancABC"
+      ],
+      "fullName": "Haardik Haardik",
+      "score": 100,
+      "active": false,
+      "phone": "+1234567890",
+      "email": "example@test.com",
+      "addressLine": "123 Virtual Street",
+      "city": "Waterloo",
+      "stateOrProvince": "Ontario",
+      "postalCode": "123 ABC",
+      "country": "Canada",
+      "nationalId": "0123456",
+      "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQENBFzwaY0BCACq9IVfGBdoQ3oYDUM+GV4nFLV1v5jfn6fW2jpCrchNG39z7rBb\nvFs2pzILTjHf9w8/RnQ0Ne/MFBFWWBn0dAUmPwRbPevLcpVWq28+v5ogdTRcTZ3Y\n9vsmdw092wbWupiPzEyQLZJKSe35fC1r6a9uIpRZew8oZ5lHz2GiZYeoc1c+SZhH\nFmMaR4UTcAFUKYDQ7Yk17VQlnLYbvlm4Q2y7GgR1dLQyvUXDzcp9FYb031vTT4Qd\ncevWOAoJJlqeFzoclO7red5xp+XY1dsul7yeNKIgA94FzKU2scn62tvMM3J5z0qU\nrNk/cDA1JXY2QmihhlrtFPNdigz+AykaC2mRABEBAAG0AIkBHAQQAQIABgUCXPBp\njQAKCRDekHO0i6Wt6THHB/oCUgJYawij58Dwkgzq371y/SuL/yB8HB60Tpw6Qj6m\nowofYUYHIcKFbqQ6595XNqBVSkAQ1kzPq8xEMOZzqqXY7mMSiZf+1AMIseEHjEmi\n0lLOiY6eDdGxhw6VnkKxXIdkPunkeqwEBvvpD0UUwgp+BLSUaMeg+femdBc+E7Yn\nrx1zqJ7mYwKBmcF8Yn4CB3HswGf2V2CEvC8A3SFOB4gwPuj3cCyNUdb3tR9m8jFA\nVikiGph2rrBdC2jjHINQHIJ3LEKalUAmV4q1a72lVF6qLjnHyUnf2TMdn9ijUwff\nMJv5O45VLsSQos5UG8MzOuK8eHHlD3Lona+DX/CPWk/k\n=vrlB\n-----END PGP PUBLIC KEY BLOCK-----",
+      "registrationBranchId": "Branch-1"
+    },
+    {
+      "id": "324523454-sdfsdfsdf-1241452",
+      "authorizedOrgs": [
+        "Flex",
+        "BancABC"
+      ],
+      "fullName": "Victor Mapunga",
+      "score": 100,
+      "active": false,
+      "phone": "+2345235235",
+      "email": "example@test.com",
+      "addressLine": "234 Virtual Street",
+      "city": "Harare",
+      "stateOrProvince": "Harare",
+      "postalCode": "123 ABC",
+      "country": "Zimbabwe",
+      "nationalId": "0123456",
+      "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQENBFzwaY0BCACq9IVfGBdoQ3oYDUM+GV4nFLV1v5jfn6fW2jpCrchNG39z7rBb\nvFs2pzILTjHf9w8/RnQ0Ne/MFBFWWBn0dAUmPwRbPevLcpVWq28+v5ogdTRcTZ3Y\n9vsmdw092wbWupiPzEyQLZJKSe35fC1r6a9uIpRZew8oZ5lHz2GiZYeoc1c+SZhH\nFmMaR4UTcAFUKYDQ7Yk17VQlnLYbvlm4Q2y7GgR1dLQyvUXDzcp9FYb031vTT4Qd\ncevWOAoJJlqeFzoclO7red5xp+XY1dsul7yeNKIgA94FzKU2scn62tvMM3J5z0qU\nrNk/cDA1JXY2QmihhlrtFPNdigz+AykaC2mRABEBAAG0AIkBHAQQAQIABgUCXPBp\njQAKCRDekHO0i6Wt6THHB/oCUgJYawij58Dwkgzq371y/SuL/yB8HB60Tpw6Qj6m\nowofYUYHIcKFbqQ6595XNqBVSkAQ1kzPq8xEMOZzqqXY7mMSiZf+1AMIseEHjEmi\n0lLOiY6eDdGxhw6VnkKxXIdkPunkeqwEBvvpD0UUwgp+BLSUaMeg+femdBc+E7Yn\nrx1zqJ7mYwKBmcF8Yn4CB3HswGf2V2CEvC8A3SFOB4gwPuj3cCyNUdb3tR9m8jFA\nVikiGph2rrBdC2jjHINQHIJ3LEKalUAmV4q1a72lVF6qLjnHyUnf2TMdn9ijUwff\nMJv5O45VLsSQos5UG8MzOuK8eHHlD3Lona+DX/CPWk/k\n=vrlB\n-----END PGP PUBLIC KEY BLOCK-----",
+      "registrationBranchId": "Branch-1"
+    }
+  ],
+  "client-123456789-abcdefg-13432": {
+    "id": "123456789-abcdefg-13432",
+    "authorizedOrgs": [
+      "Flex",
+      "BancABC"
+    ],
+    "fullName": "Haardik Haardik",
+    "score": 100,
+    "active": true,
+    "phone": "+1234567890",
+    "email": "example@test.com",
+    "addressLine": "123 Virtual Street",
+    "city": "Waterloo",
+    "stateOrProvince": "Ontario",
+    "postalCode": "123 ABC",
+    "country": "Canada",
+    "nationalId": "0123456",
+    "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQENBFzwaY0BCACq9IVfGBdoQ3oYDUM+GV4nFLV1v5jfn6fW2jpCrchNG39z7rBb\nvFs2pzILTjHf9w8/RnQ0Ne/MFBFWWBn0dAUmPwRbPevLcpVWq28+v5ogdTRcTZ3Y\n9vsmdw092wbWupiPzEyQLZJKSe35fC1r6a9uIpRZew8oZ5lHz2GiZYeoc1c+SZhH\nFmMaR4UTcAFUKYDQ7Yk17VQlnLYbvlm4Q2y7GgR1dLQyvUXDzcp9FYb031vTT4Qd\ncevWOAoJJlqeFzoclO7red5xp+XY1dsul7yeNKIgA94FzKU2scn62tvMM3J5z0qU\nrNk/cDA1JXY2QmihhlrtFPNdigz+AykaC2mRABEBAAG0AIkBHAQQAQIABgUCXPBp\njQAKCRDekHO0i6Wt6THHB/oCUgJYawij58Dwkgzq371y/SuL/yB8HB60Tpw6Qj6m\nowofYUYHIcKFbqQ6595XNqBVSkAQ1kzPq8xEMOZzqqXY7mMSiZf+1AMIseEHjEmi\n0lLOiY6eDdGxhw6VnkKxXIdkPunkeqwEBvvpD0UUwgp+BLSUaMeg+femdBc+E7Yn\nrx1zqJ7mYwKBmcF8Yn4CB3HswGf2V2CEvC8A3SFOB4gwPuj3cCyNUdb3tR9m8jFA\nVikiGph2rrBdC2jjHINQHIJ3LEKalUAmV4q1a72lVF6qLjnHyUnf2TMdn9ijUwff\nMJv5O45VLsSQos5UG8MzOuK8eHHlD3Lona+DX/CPWk/k\n=vrlB\n-----END PGP PUBLIC KEY BLOCK-----",
+    "registrationBranchId": "Branch-1"
+  },
+  "client-324523454-sdfsdfsdf-1241452": {
+    "id": "324523454-sdfsdfsdf-1241452",
+    "authorizedOrgs": [
+      "Flex",
+      "BancABC"
+    ],
+    "fullName": "Victor Mapunga",
+    "score": 100,
+    "active": true,
+    "phone": "+2345235235",
+    "email": "example@test.com",
+    "addressLine": "234 Virtual Street",
+    "city": "Harare",
+    "stateOrProvince": "Harare",
+    "postalCode": "123 ABC",
+    "country": "Zimbabwe",
+    "nationalId": "0123456",
+    "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQENBFzwaY0BCACq9IVfGBdoQ3oYDUM+GV4nFLV1v5jfn6fW2jpCrchNG39z7rBb\nvFs2pzILTjHf9w8/RnQ0Ne/MFBFWWBn0dAUmPwRbPevLcpVWq28+v5ogdTRcTZ3Y\n9vsmdw092wbWupiPzEyQLZJKSe35fC1r6a9uIpRZew8oZ5lHz2GiZYeoc1c+SZhH\nFmMaR4UTcAFUKYDQ7Yk17VQlnLYbvlm4Q2y7GgR1dLQyvUXDzcp9FYb031vTT4Qd\ncevWOAoJJlqeFzoclO7red5xp+XY1dsul7yeNKIgA94FzKU2scn62tvMM3J5z0qU\nrNk/cDA1JXY2QmihhlrtFPNdigz+AykaC2mRABEBAAG0AIkBHAQQAQIABgUCXPBp\njQAKCRDekHO0i6Wt6THHB/oCUgJYawij58Dwkgzq371y/SuL/yB8HB60Tpw6Qj6m\nowofYUYHIcKFbqQ6595XNqBVSkAQ1kzPq8xEMOZzqqXY7mMSiZf+1AMIseEHjEmi\n0lLOiY6eDdGxhw6VnkKxXIdkPunkeqwEBvvpD0UUwgp+BLSUaMeg+femdBc+E7Yn\nrx1zqJ7mYwKBmcF8Yn4CB3HswGf2V2CEvC8A3SFOB4gwPuj3cCyNUdb3tR9m8jFA\nVikiGph2rrBdC2jjHINQHIJ3LEKalUAmV4q1a72lVF6qLjnHyUnf2TMdn9ijUwff\nMJv5O45VLsSQos5UG8MzOuK8eHHlD3Lona+DX/CPWk/k\n=vrlB\n-----END PGP PUBLIC KEY BLOCK-----",
+    "registrationBranchId": "Branch-1"
+  },
+  "loan-request-pending": [
+    {
+      "id": "321423452-ayufij-124324",
+      "status": "QUEUED",
+      "clientId": "324523454-sdfsdfsdf-1241452",
+      "description": "Loan to start a small business",
+      "amount": 5000,
+      "forMonths": 10,
+      "submittedAt": "2009-11-10 23:00:00 +0000 UTC"
+    },
+    {
+      "id": "32478234-dsrfsdfds-3248932",
+      "status": "QUEUED",
+      "clientId": "123456789-abcdefg-13432",
+      "description": "Loan to hire freelancers",
+      "amount": 10000,
+      "forMonths": 12,
+      "submittedAt": "2010-11-10 23:00:00 +0000 UTC"
+    }
+  ],
+  "loan-approve": {
+    "response": "Success!"
+  },
+  "loan-decline": {
+    "response": "Success!"
+  },
+  "credit-transfer-request-pending": {
+    "id": "2345234-3fsfdsf-43242",
+    "creditId": "4324325-dsfsdfsd-21445",
+    "oldClientId": "324523454-sdfsdfsdf-1241452",
+    "newClientId": "123456789-abcdefg-13432",
+    "status": "QUEUED"
+  },
+  "credit-transfer-approve": {
+    "response": "Success!"
+  },
+  "credit-transfer-decline": {
+    "response": "Success!"
+  },
+  "agent": {
+    "response": "Success!"
+  },
+  "agent-43534534-sadasdf-12344": {
+    "id": "43534534-sadasdf-12344",
+    "fullName": "John Doe",
+    "branchId": "Branch-1",
+    "role": "BANKER",
+    "addressLine": "892 ABCD Street",
+    "city": "Waterloo",
+    "stateOrProvince": "Ontario",
+    "postalCode": "123 ABC",
+    "country": "Canada",
+    "active": true,
+    "registeredAt": "2009-11-10 23:00:00 +0000 UTC"
+  },
+  "branch": {
+    "fullNamee": "Branch 1 of XYZ",
+    "finOrgId": "FinOrg-1",
+    "managerId": "Client-1",
+    "website": "branch1.com",
+    "addressLine": "XYZ",
+    "city": "abcd",
+    "stateOrProvince": "defg",
+    "country": "Canada",
+    "active": true
+  },
+  "branch-3242345-dsgsd-2131": {
+    "id": "Branch-1",
+    "fullName": "Branch 1 of XYZ",
+    "finOrgId": "FinOrg-1",
+    "managerId": "Client-1",
+    "website": "branch1.com",
+    "addressLine": "XYZ",
+    "city": "abcd",
+    "stateOrProvince": "defg",
+    "country": "Canada",
+    "active": true,
+    "registeredAt": "2009-11-10 23:00:00 +0000 UTC"
+  }
+}
